@@ -14,6 +14,6 @@
 ### Example
 
 <p align="center">
-  <img src="images/Code.png" />
+  <img src="images/code.png" />
 </p>
 
