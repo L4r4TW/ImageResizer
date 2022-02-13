@@ -7,8 +7,8 @@
 
 ## Usage
 
-1. pip install pillow. 
-2. Set the input path, output path and the image size you want. 
+1. pip install pillow 
+2. Set the input path, output path and the image size you want 
 3. Run the script  
 
 ### Example
